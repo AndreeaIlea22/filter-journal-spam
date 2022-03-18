@@ -1117,12 +1117,6 @@ blacklist_from		vijaykumarjha2014@gmail.com
 ## edd 16 Feb 2021	BBOAJ (Juniper)
 blacklist_from		biostats@juniperepublishers.org
 
-## edd 18 Feb 2021 	CHAOS 2021
-blacklist_from		secretar@cmsim1.org
-
-## edd 24 Feb 2021 	IOSR
-blacklist_from		noreply@mailzbox.com
-
 ## edd 02 Mar 2021 	AJSS
 blacklist_from		arfbooks@icloud.com
 
@@ -1141,13 +1135,6 @@ blacklist_from		simon@ijoass.com
 ## edd 25 Mar 2021	IJHSSI, WCC2022
 blacklist_from		noreply@bankmitrabcapply.in
 blacklist_to		vicky-wcc@eventcomittee.com
-
-## edd 29 Mar 2021	International Journal of Biology and Biomedical Engineering
-blacklist_from		catherine.b.thome@gmail.com
-
-## edd 30 Mar 2021	JAMC, HealthJ
-blacklist_from		jamc@iitast.com
-blacklist_from		chaturvedi@healthj.org
 
 ## edd 02 Apr 2021 	IJERA
 blacklist_from		info@electicbuzz.com
@@ -1196,15 +1183,6 @@ blacklist_from		submit@2nd-cciis.org
 ## edd 13 May 2021	Youth Environmental Education Congress (YEEC), WCC
 blacklist_from		weecnetwork@gmail.co
 blacklist_from		mvicky01@wcc2021-congress.com
-
-## edd 14 May 2021	BJSTR
-blacklist_from		drugdesigning@biomedicalresearch.net
-
-## edd 20 May 2021	Technium Science
-blacklist_from		office@techniumscience.org
-
-## edd 21 May 2021	Interbit
-blacklist_from		info@engw.org
 
 ## edd 25 May 2021	IJOEST (to .edu address)
 blacklist_from		vidhipal@publishijoest.com
@@ -1388,13 +1366,6 @@ blacklist_from		cfp-summer@mail1.2022iiisconferences.org
 ## edd 24 Dec 2021	Jokull
 blacklist_from		announcement@elimianta.club
 
-## edd 28 Dec 2021	INASE
-blacklist_from		zoe.michel@revolut.com
-blacklist_to		inase.editorial@gmail.com
-
-## edd 29 Dec 2021	HMAS2022
-blacklist_from		Helene@mail1.thursday-supermarket.com
-
 ## edd 01 Jan 2022	Journal of Statistics: Advances in Theory and Applications
 blacklist_from		information@pubresearch.co
 
@@ -1452,13 +1423,7 @@ blacklist_from		ms.editor@horizon-publishing.org
 ## edd 10 Feb 2022	International Journal of Latest Engineering Research and Applications
 blacklist_from		editor@ijlera.com
                         # Journal of Mathematical and Statistical Analysis
-blacklist_from		editor@reviewmanuscript.biz
-blacklist_to		submissions@scimedopenaccess.biz
 
-# edd 12 Feb 2022	Journal of Econometrics and Statistics
-blacklist_from		globalresearchpublications@gmail.com
-blacklist_to		ijta2018@gmail.com
-#			IJESI
 blacklist_from		noreply@point4web.com
 blacklist_to		ijesi@invmails.com
 
